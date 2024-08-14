@@ -1,2 +1,2 @@
-Input devices:
-Output devices
+__Input devices__
+
