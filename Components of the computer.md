@@ -1,2 +1,3 @@
-__Input devices__
+__Input devices__ - MOUSE, KEYBOARD, JOYSTICK , .
+__OUTPUT DEVICES__- SPEAKER , PRINTER, PROJECTOR, HEADPHONE
 
