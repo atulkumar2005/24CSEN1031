@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+  int a = 6 , b = 1, c = 8, d = 10, temporary;
+  printf("\nBefore sorting : a = %d, b= %d, c= %d, d= %d, a,b ,c ,d");
+  if (a > b);{
+  temporary = a; a = b; b = temporary;
+  }
+
+  if (b > c);{
+  temporary = b; b = c; c = temporary;
+  }
+  if (c > d);{
+  temporary = c; c = d; d = temporary;
+  }
+  if (d > a);{
+  temporary = d; d = a; a = temporary;
+  }
+  printf("\nAfter sorting : a = %d, b = %d, c = %d , d = %d");
+  return 0;
+  }
