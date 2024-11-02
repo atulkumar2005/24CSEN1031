@@ -21,11 +21,11 @@ int main() {
    return 0;
 }
 output:
-enter any number to be reversed: 5689
+enter any number to be reversed: 2865
 
 
-after reversing: 9865
-enter any number to be reversed: 121246
+after reversing: 5682
+enter any number to be reversed: 456787
 
 
-after reversing: 642121
+after reversing: 787654
