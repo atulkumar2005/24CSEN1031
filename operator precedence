@@ -10,3 +10,8 @@ int main() {
     printf("\n the number %d is positive and odd", a);
     return 0;
 }
+OUTPUT:
+Enter an integer (positive or negative): 46
+The nubmber 46 is positive and even
+
+=== Code Execution Successful ===
